@@ -1,6 +1,6 @@
 # My miscellaneous utilities
 
-## Convert npy from python2 to python3
+## convert_npy_py2_to_py3.py
 Convert numpy python2 .npy to python3
 Take two arguments as input : input_filename output_filename
 Verifies that the arrays are unchanged.
